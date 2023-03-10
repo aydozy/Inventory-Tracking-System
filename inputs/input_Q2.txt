@@ -1,0 +1,31 @@
+Add_Captain  801 Burak 
+Add_Captain  802 Ahmet 
+Add_Captain  803 Ali 
+Add_Captain  804 Can 
+Add_Captain  805 Yasir 
+Add_Captain  806 Pelin 
+Add_Captain  807 Adem 
+
+
+Is_Available 801                 
+Is_Available 802                
+Is_Available 803                 
+Is_Available 814                 
+Is_Available 803                 
+
+
+Display_captain 820
+Display_captain 802
+
+
+Finish 801 0
+Finish 802 1
+Finish 807 1
+Finish 811 1
+
+Delete_captain 804
+Delete_captain 814
+
+Display_all_captains
+          
+Quit 

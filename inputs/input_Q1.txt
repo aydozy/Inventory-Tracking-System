@@ -1,0 +1,11 @@
+Add_product 23 sweatshirt  1
+Add_product 56 skirt       2
+Add_product 95 hat         6
+
+
+Is_Available 23                 
+Is_Available 56                
+Is_Available 96                 
+               
+Quit 
+        
